@@ -1,5 +1,4 @@
-# Smart-Waste-bin
-Smart way of waste  measurement and disposal
+# WasteTracker : Smart way of waste  measurement and disposal
 
 1)Automatic lid opening
 2) Trash weight measurement
